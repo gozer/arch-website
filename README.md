@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92add763-c2f7-42ba-9b4c-5d40bb8ecbaa/deploy-status)](https://app.netlify.com/sites/experiencethearch/deploys)
+
 basics to start development
 
 
